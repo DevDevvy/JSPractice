@@ -47,7 +47,7 @@ const cat = {
     color: "rainbow"
 }
 // if you want to name the variables different than the objects keys... {key:newName}
-const {name: catsName, occupation: whatCatDoes, color: Race} = cat
+const {name: catsName, occupation: whatCatDoes, color: colour} = cat
 // console logging catsName should now hold the value of cat.name
 console.log(catsName)
 
